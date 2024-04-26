@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["TIKTOK","www.tiktok.com/@anilpasa00"];
+const statusMessages = ["www.tiktok.com/@anilpasa00"];
 
 
 let currentIndex = 0;
