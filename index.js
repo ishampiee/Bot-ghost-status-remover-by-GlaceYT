@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["TIKTOK","www.tiktok.com/@anilpasa00"];
 
 
 let currentIndex = 0;
